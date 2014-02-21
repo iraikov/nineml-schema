@@ -1,4 +1,4 @@
 nineml-schema
 =============
 
-Prototype XML schemacs for NineML
+Prototype XML schemas for NineML
